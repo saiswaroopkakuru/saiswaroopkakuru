@@ -56,7 +56,7 @@ I’m a Cloud Engineer specializing in automating cloud infrastructures, focusin
 <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="80" height="80"/>
 <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="80" height="80"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="80" height="80"/>
-<img src="https://img.icons8.com/fluency/96/kubernetes.png" alt="Kubernetes" width="80" height="80"/> <!-- Updated Kubernetes icon -->
+<img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="80" height="80"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="80" height="80"/>
 
 #### <span style="color:white;">Programming & Databases</span>
@@ -67,8 +67,6 @@ I’m a Cloud Engineer specializing in automating cloud infrastructures, focusin
 <img src="https://img.icons8.com/ios-filled/100/0078D4/mysql-logo.png" alt="MySQL" width="80" height="80"/>
 
 </div>
-
----
 
 ### <span style="color:#0078D4;">🌱 Learning & Development</span>
 
