@@ -1,117 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sai Swaroop Kakuru</h1>
-<h3 align="center">A Passionate Cloud Engineer from Illinois, USA</h3>
+<h1 align="center" style="color:#0078D4;">Hello World! 👋 I'm Sai Swaroop Kakuru</h1>
+<h3 align="center" style="color:#0078D4;">🚀 Cloud Engineer | DevOps Enthusiast | Innovator in Tech 🌐</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiswaroopkakuru&label=Profile%20views&color=0e75b6&style=flat" alt="saiswaroopkakuru" />
-  <a href="https://github.com/saiswaroopkakuru?tab=followers">
-    <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Followers&style=social" alt="GitHub Followers">
-  </a>
   <a href="mailto:saiswaroopreddy11@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Here!-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-Here!-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/saiswaroopkakuru?tab=followers">
+    <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow%20Me&style=social&color=0078D4" alt="GitHub Followers">
+  </a>
+  <a href="https://linkedin.com/in/sai-swaroop-1199sai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### <span style="color:#0078D4;">⚡ Who Am I?</span>
 
-I’m a **Cloud Engineer** with 4 years of experience in **AWS** and **Azure** environments. I specialize in configuring virtual machines, automating cloud deployments, ensuring robust security, and optimizing costs.
-
-- 👯 I’m looking to collaborate on **Cloud Engineering** and **DevOps** projects.
-- 💬 Ask me about **AWS, DevOps, AI & ML**.
-- 📫 Reach me at **saiswaroopreddy11@gmail.com**.
-
----
-
-### 🏅 Professional Experience
-
-**Teaching Assistant for Machine Learning & AI** – *Southern Illinois University*  
-*Jan 2023 – May 2024, Carbondale, IL*  
-- Led sessions on reinforcement learning, achieving 93.7% accuracy in models.
-- Conducted workshops in image classification and sentiment analysis.
-- Supervised capstone projects involving system identification and plant modeling.
-
-**Azure Cloud Engineer Intern** – *SalukiTech Service Center*  
-*May 2023 – Sept 2023, Carbondale, IL*  
-- Managed Azure virtual machines, storage, and network resources.
-- Automated deployments using PowerShell and Azure CLI.
-- Enhanced security through Azure Active Directory and Key Vault.
-
-**Junior Cloud Engineer** – *CTSI Global*  
-*Sept 2021 – Dec 2022, Chennai, India*  
-- Architected secure AWS VPC infrastructures.
-- Implemented IAM and RBAC policies for access control.
-- Deployed security monitoring with AWS CloudTrail.
-
-**Junior Cloud Engineer** – *Aquila Software Services*  
-*Aug 2020 – Aug 2021, Hyderabad, India*  
-- Automated deployments using AWS CloudFormation.
-- Trained ML models using AWS SageMaker.
+<p style="color:white;">
+I’m a Cloud Engineer specializing in automating cloud infrastructures, focusing on AWS and Azure. With 4+ years of experience,
+  I love turning complex tasks into streamlined processes using DevOps tools like Jenkins, Terraform, and Kubernetes. 
+              My goal-To innovate and deliver scalable, secure cloud solutions that transform businesses.
+</p>
 
 ---
 
-### 💡 Tech Stack & Skills
+### <span style="color:#0078D4;">🚀 What I Do</span>
+
+#### **Cloud Engineering & Automation**
+<p style="color:white;">
+- Cloud Architectures: Designing, deploying, and automating multi-cloud infrastructures on AWS and Azure.
+- Infrastructure as Code (IaC): Using Terraform and CloudFormation for robust, reusable infrastructure setups.
+- CI/CD Automation: Building and optimizing pipelines using Jenkins, GitHub Actions, and Azure DevOps.
+</p>
+
+#### **Security & Cost Optimization**
+<p style="color:white;">
+- Cloud Security: Enhancing security with IAM, RBAC, SSL/TLS, and encrypted data flows.
+- Cost Optimization: Reducing cloud expenditure using cost management tools and fine-tuning workloads.
+</p>
+
+---
+
+### <span style="color:#0078D4;">🔧 Tech Stack</span>
 
 <div align="center">
 
-#### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+#### <span style="color:white;">Cloud Platforms</span>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="Linux" width="80" height="80"/>
 
-#### **DevOps Tools**
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+#### <span style="color:white;">DevOps & Tools</span>
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="80" height="80"/>
+<img src="https://img.icons8.com/fluency/96/kubernetes.png" alt="Kubernetes" width="80" height="80"/> <!-- Updated Kubernetes icon -->
+<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="80" height="80"/>
 
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### <span style="color:white;">Programming & Databases</span>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="80" height="80"/>
+<img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" width="80" height="80"/>
+<img src="https://img.icons8.com/ios-filled/100/0078D4/mysql-logo.png" alt="MySQL" width="80" height="80"/>
 
 </div>
 
 ---
 
-### 🎓 Education
+### <span style="color:#0078D4;">🌱 Learning & Development</span>
 
-- **Master of Science in Computer Science** – *Southern Illinois University*  
-  *Jan 2023 – May 2024*  
-  
-- **Bachelor of Technology in Computer Science & Engineering** – *Prist University*  
-  *June 2017 – Sept 2021*
+<p style="color:white;">
+I’m constantly evolving my skillset. I’ve completed certifications and attended workshops to stay ahead in the tech industry.
+</p>
 
----
-
-### 🏅 Certifications
-
-- AWS Solutions Architect Certified
-- AWS Deep-Racer Student League – Amazon
-- Microsoft Certified
-- GitHub Foundations
+- **AWS Solutions Architect Certified**  
+- **AWS Deep-Racer Student League – Amazon**  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Python Programming - Cisco Networking Academy**  
 
 ---
 
-### 📊 GitHub Stats
+### <span style="color:#0078D4;">📊 GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiswaroopkakuru&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiswaroopkakuru&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiswaroopkakuru&show_icons=true&theme=blueberry" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiswaroopkakuru&theme=blueberry" alt="GitHub Streak">
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### <span style="color:#0078D4;">🤝 Let’s Connect</span>
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-swaroop-1199sai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/saiswaroopkakuru" target="_blank">
-    <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0078D4" alt="GitHub Followers">
   </a>
 </p>
+
+<p align="center" style="color:white;">Let's chat about tech, DevOps, or just say hi at <a href="mailto:saiswaroopreddy11@gmail.com" style="color:#0078D4;">saiswaroopreddy11@gmail.com</a>!</p>
