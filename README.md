@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/path-to-your-cloud-architecture-image.png" alt="Cloud Architecture" width="800px"/>
+  
 </div>
 
 <div align="center" style="background-color:#4A90E2; padding: 30px; border-radius: 15px;">
