@@ -1,11 +1,13 @@
+<div align="center">
+  <img src="/path-to-your-cloud-architecture-image.png" alt="Cloud Architecture" width="800px"/>
+</div>
 
-
-<div align="center" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
+<div align="center" style="background-color:#4A90E2; padding: 30px; border-radius: 15px;">
   
-  <h1>Hi there, I'm <strong> Sai Swaroop Kakuru</strong> 👋</h1>
+  <h1>Hi there, I'm <strong>Sai Swaroop Kakuru</strong> 👋</h1>
   
   <p>
-    🚀 <strong>Cloud Engineer | DevOps Enthusiast | AI & Automation</strong> 🚀
+    🚀 <strong>Cloud Engineer | DevOps Architect | AI Enthusiast</strong> 🚀
   </p>
   
   <p>
@@ -18,20 +20,21 @@
   </p>
   
   <p style="font-size: 20px;">
-    I’m a <strong>Cloud Engineer</strong> with 4+ years of experience in architecting, automating, and optimizing cloud infrastructures, specializing in <strong>AWS</strong> and <strong>Azure</strong>. My passion lies in delivering scalable, secure, and efficient cloud solutions with a keen focus on automation, DevOps, and AI.
+    A highly experienced <strong>Cloud Engineer</strong> with a passion for designing scalable, secure, and efficient cloud infrastructures using <strong>AWS</strong> and <strong>Azure</strong>. I specialize in DevOps automation, AI integration, and cost optimization. My mission? Delivering value through technical innovation, automation, and robust cloud strategies.
   </p>
 </div>
 
 ---
 
-### 🌟 **What I Do**
+### 🌟 **What I Bring to the Table**
 
-<div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color:#4A90E2; padding: 15px; border-radius: 10px;">
   
- **Cloud Solutions Architecture**: Expert in designing secure, scalable infrastructures on AWS & Azure.
-**Automation & DevOps**: Building automated deployment pipelines with **Terraform**, **Jenkins**, and **GitHub Actions**.
- **AI & ML Model Deployment**: Hands-on experience with **AWS SageMaker**, **TensorFlow**, and deploying machine learning models in the cloud.
-**Cost Optimization**: Skilled in reducing cloud costs with resource monitoring and budget alerts.
+- **Cloud Architecture Expertise**: Proven experience in designing secure, scalable infrastructures on AWS & Azure.
+- **DevOps Automation**: Building seamless, automated CI/CD pipelines with Terraform, Jenkins, and GitHub Actions.
+- **AI/ML Deployment**: Hands-on with AWS SageMaker, TensorFlow, and deploying machine learning models in production environments.
+- **Cost Optimization**: Skilled at reducing cloud costs through proactive resource monitoring and budget management.
+- **Security-First Mindset**: Implementing robust security solutions using AWS IAM, RBAC, Key Vault, and more.
   
 </div>
 
@@ -39,55 +42,46 @@
 
 ### 💼 **Professional Experience**
 
-<div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
+<div align="left" style="background-color:#E6E9EF; padding: 30px; border-radius: 15px;">
+  <img src="/path-to-cloud-image-1.png" alt="Cloud Operations" align="right" width="400px"/>
 
-**Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024 | Carbondale,IL
+**Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024 | Carbondale, IL  
+*Guided hands-on projects in Machine Learning & AI, enabling students to design and deploy models with up to 93% accuracy in real-world applications.*
 
-•	Assisted college students with putting in various software program and having access to the school device, preserving the pc lab operations. 
-•	Researched reinforcement learning, TensorFlow, and Torch, making use of those in route substances to beautify getting to know. 
-•	Developed fingers-on lab sessions specializing in autopilot systems, demonstrating device mastering models with over 
-93.7% accuracy. 
-•	Guided co students through a direction making plans project that optimized electric powered vehicle performance using reinforcement getting to know. 
-•	Led sensible periods on photograph type using CNNs, accomplishing up to 70% accuracy. 
-•	Conducted sentiment analysis workshops, in which college students constructed fashions that categorized IMDB critiques with 89% accuracy. 
-•	Supervised capstone projects, which includes system identity and plant modeling the use of Simulink.
+- Led practical sessions on reinforcement learning and TensorFlow, achieving model accuracies of over 93.7%.
+- Supervised capstone projects including system identification and AI-powered plant modeling.
+- Conducted workshops on image classification (70% accuracy) and sentiment analysis (89% accuracy).
 
+---
 
- **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023| Carbondale,IL
+<div align="left" style="background-color:#E6E9EF; padding: 30px; border-radius: 15px;">
+  <img src="/path-to-cloud-image-2.png" alt="Azure Cloud Engineer" align="right" width="400px"/>
 
-• Managed and monitored Azure virtual machines, storage, and network resources. 
-•	Implemented Azure Active Directory and RBAC for secure access control. 
-•	Automated deployments and tasks using PowerShell and Azure CLI. 
-•	Optimized cloud costs through Azure Cost Management and budget alerts. 
-•	Deployed and configured Azure security tools like Key Vault and firewalls. 
-•	Troubleshot performance and connectivity issues in Azure environments
+**Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023 | Carbondale, IL  
+*Focused on automating Azure infrastructure and enhancing security controls, driving efficient cloud operations.*
 
-**Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022 | Chennai,India
+- Managed and optimized Azure virtual machines, storage, and network resources.
+- Automated infrastructure deployments using PowerShell and Azure CLI.
+- Deployed and configured security tools like Key Vault and firewalls, ensuring data protection.
+- Reduced cloud costs using Azure Cost Management and automated budget alerts.
 
-•	Architected stable, multi-tier infrastructure with AWS VPCs, subnets, and security corporations. 
-•	Enhanced application safety with the aid of integrating AWS CloudFront with SSL/TLS for encrypted content material delivery. 
-•	Implemented RBAC and least-privilege access manipulate the usage of AWS IAM rules. 
-•	Automated safety monitoring with AWS CloudTrail, making sure compliance with guidelines. 
-•	Applied AWS KMS for facts encryption in transit and at rest, securing touchy information
+---
 
- **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021 | Hyderabad,India
+<div align="left" style="background-color:#E6E9EF; padding: 30px; border-radius: 15px;">
+  <img src="/path-to-cloud-image-3.png" alt="AWS Engineer" align="right" width="400px"/>
 
-• Created IaC scripts using AWS CloudFormation, speeding up deployment processes and reducing errors. 
-•	Built and trained machine learning models in AWS SageMaker for large data sets. 
-•	Docker containers from Python base images have been developed to optimize instance deployment on AWS SageMaker. 
-•	TensorFlow was modeled and optimized in SageMaker to improve prediction accuracy. 
-•	Automated Python-based data extraction processes, significantly reducing manual processing time. 
-•	Executed complex SQL queries in MySQL and SQL Server, which improved data retrieval performance. 
-•	Collaborated cross-functionally to align cloud solutions with business objectives. 
+**Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022 | Chennai, India  
+*Architected multi-tier AWS environments and implemented security best practices to ensure scalable cloud solutions.*
 
-
-</div>
+- Built multi-tier AWS VPC infrastructures and secured applications with CloudFront and SSL/TLS encryption.
+- Automated security monitoring with AWS CloudTrail and applied encryption using AWS KMS.
+- Implemented IAM RBAC and applied least-privilege principles to enforce robust access control.
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
 
-<div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 10px;">
+<div align="left" style="background-color:#E6E9EF; padding: 30px; border-radius: 10px;">
 
 #### **Cloud Platforms**:
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -108,32 +102,25 @@
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiswaroopkakuru&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiswaroopkakuru&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiswaroopkakuru&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiswaroopkakuru&theme=highcontrast" alt="GitHub Streak">
 </p>
 
 ---
 
-### 🌱 **Certifications**
+### 🎓 **Certifications**
 - **AWS Solutions Architect Certified**
 - **Microsoft Certified**
-- **AWS Deep-Racer Student League** – Amazon
+- **AWS Deep-Racer Student League – Amazon**
 - **GitHub Foundations**
-
----
-
-### 🎨 **Fun Facts**
-- I enjoy watching **crime movies**, exploring genres that fuel my curiosity and attention to detail.
-- I love exploring **whisky and beer** flavors during social gatherings and relaxing moments with friends.
 
 ---
 
 ### 🤝 **Let’s Connect**
 
-<div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color:#4A90E2; padding: 15px; border-radius: 10px;">
   
 - **LinkedIn**: [sai-swaroop-1199sai](https://linkedin.com/in/sai-swaroop-1199)
 - **Email**: saiswaroopreddy11@gmail.com
 
 </div>
-
