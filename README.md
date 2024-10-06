@@ -8,7 +8,7 @@
   <a href="https://github.com/saiswaroopkakuru?tab=followers">
     <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow%20Me&style=social&color=0078D4" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/sai-swaroop-1199sai" target="_blank">
+  <a href="https://linkedin.com/in/swaroop-reddy99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
