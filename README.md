@@ -15,17 +15,15 @@
 
 ---
 
-### <span style="color:#0078D4;">⚡ Who Am I?</span>
+### ⚡ Who Am I?
 
 <p style="color:white;">
-I’m a Cloud Engineer specializing in automating cloud infrastructures, focusing on AWS and Azure. With 4+ years of experience,
-  I love turning complex tasks into streamlined processes using DevOps tools like Jenkins, Terraform, and Kubernetes. 
-              My goal-To innovate and deliver scalable, secure cloud solutions that transform businesses.
+I’m a Cloud Engineer specializing in automating cloud infrastructures, focusing on AWS and Azure. With 4+ years of experience, I love turning complex tasks into streamlined processes using DevOps tools like Jenkins, Terraform, and Kubernetes. My goal is to innovate and deliver scalable, secure cloud solutions that transform businesses.
 </p>
 
 ---
 
-### <span style="color:#0078D4;">🚀 What I Do</span>
+### 🚀 What I Do
 
 #### **Cloud Engineering & Automation**
 <p style="color:white;">
@@ -42,33 +40,35 @@ I’m a Cloud Engineer specializing in automating cloud infrastructures, focusin
 
 ---
 
-### <span style="color:#0078D4;">🔧 Tech Stack</span>
+### 🔧 Tech Stack
 
 <div align="center">
 
-#### <span style="color:white;">Cloud Platforms</span>
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="Linux" width="80" height="80"/>
+#### Cloud Platforms
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
 
-#### <span style="color:white;">DevOps & Tools</span>
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="80" height="80"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="80" height="80"/>
+#### DevOps & Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="80" height="80"/>
 
-#### <span style="color:white;">Programming & Databases</span>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="80" height="80"/>
-<img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" width="80" height="80"/>
-<img src="https://img.icons8.com/ios-filled/100/0078D4/mysql-logo.png" alt="MySQL" width="80" height="80"/>
+#### Programming & Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
 
 </div>
 
-### <span style="color:#0078D4;">🌱 Learning & Development</span>
+---
+
+### 🌱 Learning & Development
 
 <p style="color:white;">
 I’m constantly evolving my skillset. I’ve completed certifications and attended workshops to stay ahead in the tech industry.
@@ -81,7 +81,7 @@ I’m constantly evolving my skillset. I’ve completed certifications and atten
 
 ---
 
-### <span style="color:#0078D4;">📊 GitHub Stats</span>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiswaroopkakuru&show_icons=true&theme=blueberry" alt="GitHub Stats">
@@ -90,7 +90,7 @@ I’m constantly evolving my skillset. I’ve completed certifications and atten
 
 ---
 
-### <span style="color:#0078D4;">🤝 Let’s Connect</span>
+### 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-swaroop-1199sai" target="_blank">
