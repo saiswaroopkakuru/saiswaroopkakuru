@@ -8,7 +8,7 @@
   <a href="https://github.com/saiswaroopkakuru?tab=followers">
     <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow%20Me&style=social&color=0078D4" alt="GitHub Followers">
   </a>
-  <a href="(https://www.linkedin.com/in/swaroopreddykakuru/)" target="_blank">
+  <a href="https://www.linkedin.com/in/swaroopreddykakuru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -93,7 +93,7 @@ I’m constantly evolving my skillset. I’ve completed certifications and atten
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-swaroop-1199sai" target="_blank">
+  <a href="https://www.linkedin.com/in/swaroopreddykakuru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/saiswaroopkakuru" target="_blank">
@@ -101,4 +101,4 @@ I’m constantly evolving my skillset. I’ve completed certifications and atten
   </a>
 </p>
 
-<p align="center" style="color:white;">Let's chat about tech, DevOps, or just say hi at <a href="mailto:saiswaroopreddy11@gmail.com" style="color:#0078D4;">saiswaroopreddy11@gmail.com</a>!</p>
+<p align="center" style="color:white;">Let's chat about tech, DevOps, or just say hi at <a href="mailto:swaroopkakuru@gmail.com" style="color:#0078D4;">swaroopkakuru@gmail.com</a>!</p>
