@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Who Am I?
+⚡ Who Am I?
 
 <p style="color:white;">
 I’m a Software Development Engineer with a passion for crafting robust, scalable applications and a Cloud Engineer with expertise in automating cloud infrastructures. With 4+ years of experience, I excel in full-stack development, DevOps practices, and building solutions that bridge the gap between software and cloud. My mission is to innovate and deliver impactful products that transform businesses.
@@ -23,20 +23,20 @@ I’m a Software Development Engineer with a passion for crafting robust, scalab
 
 ---
 
-### 🚀 What I Do
+🚀 What I Do
 
-#### **Software Development & Engineering**
+Software Development & Engineering
 <p style="color:white;">
-- **Full-Stack Development**: Developing end-to-end applications using JavaScript, Python, and modern frameworks like React and Node.js.
-- **API Development**: Designing and implementing RESTful and GraphQL APIs to enable seamless integrations.
-- **Scalable Solutions**: Building high-performance systems that handle millions of requests using cloud-native technologies.
+- Full-Stack Development: Developing end-to-end applications using JavaScript, Python, and modern frameworks like React and Node.js.
+- API Development: Designing and implementing RESTful and GraphQL APIs to enable seamless integrations.
+- Scalable Solutions: Building high-performance systems that handle millions of requests using cloud-native technologies.
 </p>
 
 #### **Cloud Engineering & Automation**
 <p style="color:white;">
-- **Cloud Architectures**: Designing and deploying cloud-native applications on AWS and Azure.
-- **Infrastructure as Code (IaC)**: Automating infrastructure with Terraform, CloudFormation, and Ansible.
-- **CI/CD Pipelines**: Implementing efficient CI/CD workflows with Jenkins, GitHub Actions, and Azure DevOps.
+- Cloud Architectures: Designing and deploying cloud-native applications on AWS and Azure.
+- Infrastructure as Code (IaC): Automating infrastructure with Terraform, CloudFormation, and Ansible.
+- CI/CD Pipelines: Implementing efficient CI/CD workflows with Jenkins, GitHub Actions, and Azure DevOps.
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m a Software Development Engineer with a passion for crafting robust, scalab
 
 <div align="center">
 
-#### **Programming Languages**
+Programming Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/>
